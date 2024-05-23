@@ -23,7 +23,6 @@
   ![image](/images/instance-management-click-remove.png)
 
   操作成功后实例将从自治中心移除。
-  ![image](/images/instance-management-click-remove-completed.png)
 
   同时也可选择“批量移除”，
   ![image](/images/instance-management-click-remove-batch.png)

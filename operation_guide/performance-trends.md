@@ -11,7 +11,7 @@
   点击“指标筛选”选择需要展示的监控指标(用户自选/关键指标)，
   ![image](/images/performance-trends-metrics-select.png)
 
-  选择完成后，界面指标监控展示选择的。
+  选择完成后，界面展示选择的指标数据。
   ![image](/images/performance-trends-metrics-select-completed.png)
 
 ## 指标诊断
