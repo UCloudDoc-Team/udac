@@ -6,7 +6,7 @@
   ![image](/images/access-entrance-instance-manager.png) 
 
 ## 导入实例到自治中心
-  点击“导入数据库”，在弹出的界面右侧会展示可导入的数据库实例列表,
+  点击“导入数据库”，在弹出的界面左侧会展示可导入的数据库实例列表,
   ![image](/images/instance-management-import-instance.png)
    
   从左侧列表中选择需要导入的数据库实例(默认导入实例上限50),

@@ -40,11 +40,11 @@
   ![image](/images/performance-trends-metrics-linkage-select.png)
 
 ## 性能趋势对比
-  趋势页面选择“性能趋势对比”，支持对统一指标在不同时间纬度上的一个对比,
+  趋势页面选择“性能趋势对比”，支持对同一指标在不同时间纬度上的一个对比,
    ![image](/images/performance-trends-instance-compare-click.png)
   
-  首选筛选需要进行对比的“监控指标”，
+  首先筛选需要进行对比的“监控指标”，
   ![image](/images/performance-trends-metrics-compare-select.png)
 
-  在次选择对比的2个时间，
+  再次选择对比的2个时间，
    ![image](/images/performance-trends-instance-compare-two-timerange.png)
