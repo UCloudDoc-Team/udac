@@ -1,7 +1,7 @@
 * [概览](/udac/README)
 * 产品介绍
     * [什么是数据库自治中心](/udac/product/concepts)
-    * [主要功能](/udac/product/feauters)
+    * [主要功能](/udac/product/features)
     * [支持列表](/udac/product/support)
 * 快速上手 
     * [导入实例到自治中心](/udac/operation_guide/import-instance)
