@@ -14,6 +14,5 @@
     * [监控大盘](/operation_guide/monitor-dashboard-management.md)
     * [性能趋势](/operation_guide/performance-trends.md)
     * [慢日志分析](/operation_guide/slowlog-analyze.md)
+    * [空间管理](/udac/operation_guide/space-manage.md)
     * [会话管理](/operation_guide/session-management.md)
-
-
