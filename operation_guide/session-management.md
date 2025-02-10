@@ -8,10 +8,10 @@
   ![image](/images/session-management-instance-page.png)
 
 ## SQL统计Top10
-  点击“SQL统计Top10”
+  点击“SQL统计Top10”，会统计出会话中出现的次数排在前10的SQL模板
   ![image](/images/session-management-sql-stat-top10.png)
 
-  在“SQL统计Top10”页面对于每条SQL可以点击详情选项
+  在“SQL统计Top10”页面对于每条SQL模板可以点击详情选项，会选择相同模板下执行时间最长的SQL语句分析执行计划
   ![image](/images/session-management-sql-stat-top10-detail.png)
 
 ## 会话统计
