@@ -17,3 +17,4 @@
     * [空间管理](/udac/operation_guide/space-manage)
     * [会话管理](/udac/operation_guide/session-management)
     * [数据追踪](/udac/operation_guide/data_trace)
+    * [自治中心](/udac/operation_guide/autonomy_center)
