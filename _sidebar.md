@@ -6,7 +6,7 @@
     * [主要功能](/udac/product/features)
     * [支持列表](/udac/product/support)
 * 快速上手 
-    * [导入实例到自治中心](/udac/operation_guide/import-instance)
+    * [导入实例到自治中心](/udac/mysql/operation_guide/import-instance)
 * 操作指南
     * MySQL
         * [访问入口](/udac/operation_guide/mysql/access-entrance)
