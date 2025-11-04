@@ -18,3 +18,7 @@
         * [会话管理](/udac/operation_guide/mysql/session-management)
         * [数据追踪](/udac/operation_guide/mysql/data_trace)
         * [自治中心](/udac/operation_guide/mysql/autonomy_center)
+    * Redis
+        * [访问入口](/udac/operation_guide/redis/udac_entry)
+        * [实例管理](/udac/operation_guide/redis/instance_manager)
+        * [性能趋势](/udac/operation_guide/redis/performance_trends)
