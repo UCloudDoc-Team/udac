@@ -23,3 +23,7 @@
         * [实例管理](/udac/operation_guide/mongodb/instance-management)
         * [性能趋势](/udac/operation_guide/mongodb/performance-trends)
         * [慢日志分析](/udac/operation_guide/mongodb/slowlog-analyze)
+    * Redis
+        * [访问入口](/udac/operation_guide/redis/udac_entry)
+        * [实例管理](/udac/operation_guide/redis/instance_manager)
+        * [性能趋势](/udac/operation_guide/redis/performance_trends)
