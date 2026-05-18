@@ -18,6 +18,7 @@
         * [会话管理](/udac/operation_guide/mysql/session-management)
         * [数据追踪](/udac/operation_guide/mysql/data_trace)
         * [自治中心](/udac/operation_guide/mysql/autonomy_center)
+        * [自动扩容](/udac/operation_guide/mysql/disk_auto_extend)
     * MongoDB
         * [访问入口](/udac/operation_guide/mongodb/access-entrance)
         * [实例管理](/udac/operation_guide/mongodb/instance-management)
