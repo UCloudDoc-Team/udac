@@ -18,6 +18,7 @@
         * [会话管理](/udac/operation_guide/mysql/session-management)
         * [数据追踪](/udac/operation_guide/mysql/data_trace)
         * [自治中心](/udac/operation_guide/mysql/autonomy_center)
+        * [SQL限流](/udac/operation_guide/mysql/sql-throttle)
         * [自动扩容](/udac/operation_guide/mysql/disk_auto_extend)
         * [锁分析](/udac/operation_guide/mysql/lock_analysis)
     * MongoDB
