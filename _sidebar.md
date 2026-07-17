@@ -5,9 +5,19 @@
     * [什么是数据库自治中心](/udac/product/concepts)
     * [主要功能](/udac/product/features)
     * [支持列表](/udac/product/support)
+    * [什么是UDAC Agent](/udac/product/agent/concepts)
+        * [前提条件](/udac/product/agent/prerequisites)
+        * [计费说明](/udac/product/agent/billing)
+        * [功能说明](/udac/product/agent/features)
+        * [技能列表](/udac/product/agent/skills)
 * 快速上手 
     * [导入实例到自治中心](/udac/operation_guide/mysql/import-instance)
 * 操作指南
+    * UDAC Agent
+        * [开通UDAC Agent服务](/udac/operation_guide/agent/enable-service)
+        * [新增UDAC Agent助手](/udac/operation_guide/agent/add-assistant)
+        * [使用UDAC Agent功能](/udac/operation_guide/agent/use-features)
+        * [管理Agent服务及Agent助手](/udac/operation_guide/agent/manage)
     * MySQL
         * [访问入口](/udac/operation_guide/mysql/access-entrance)
         * [实例管理](/udac/operation_guide/mysql/instance-management)
