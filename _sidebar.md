@@ -5,7 +5,8 @@
     * [什么是数据库自治中心](/udac/product/concepts)
     * [主要功能](/udac/product/features)
     * [支持列表](/udac/product/support)
-    * [什么是UDAC Agent](/udac/product/agent/concepts)
+    * 智能运维Agent
+        * [基本介绍](/udac/product/agent/concepts)
         * [前提条件](/udac/product/agent/prerequisites)
         * [计费说明](/udac/product/agent/billing)
         * [功能说明](/udac/product/agent/features)
