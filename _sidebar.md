@@ -15,10 +15,10 @@
     * [导入实例到自治中心](/udac/operation_guide/mysql/import-instance)
 * 操作指南
     * UDAC智能运维Agent
-        * [开通UDAC智能运维Agent服务](/udac/operation_guide/agent/enable-service)
-        * [新增UDAC智能运维Agent助手](/udac/operation_guide/agent/add-assistant)
-        * [使用UDAC智能运维Agent功能](/udac/operation_guide/agent/use-features)
-        * [管理UDAC智能运维Agent服务及Agent助手](/udac/operation_guide/agent/manage)
+        * [开通智能运维Agent服务](/udac/operation_guide/agent/enable-service)
+        * [新增智能运维Agent助手](/udac/operation_guide/agent/add-assistant)
+        * [使用智能运维Agent功能](/udac/operation_guide/agent/use-features)
+        * [管理智能运维Agent服务及Agent助手](/udac/operation_guide/agent/manage)
     * MySQL
         * [访问入口](/udac/operation_guide/mysql/access-entrance)
         * [实例管理](/udac/operation_guide/mysql/instance-management)
