@@ -1,4 +1,4 @@
-# 开通UDAC智能运维Agent服务
+# 开通智能运维Agent服务
 
 ![开通服务](/udac/images/agent-enable-service-step1.png)
 
